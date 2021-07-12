@@ -1,0 +1,9 @@
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.deps.json
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.pdb
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.AssemblyInfo.cs
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\Users\Gregory De Mota\Desktop\InterfacesGraficas\PrestamosPersonales\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.pdb
